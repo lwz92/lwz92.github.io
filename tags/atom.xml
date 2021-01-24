@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo fabric theme</title>
+    <link>https://lwz92.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo fabric theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Jan 2021 23:41:22 +0800</lastBuildDate><atom:link href="https://lwz92.github.io/tags/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://lwz92.github.io/tags/blog/</link>
+      <pubDate>Sun, 24 Jan 2021 23:41:22 +0800</pubDate>
+      
+      <guid>https://lwz92.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
